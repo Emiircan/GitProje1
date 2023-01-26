@@ -8,5 +8,7 @@ public class student {
 
         System.out.println("yeniden merhaba");
 
+        System.out.println("selmalarrr");
+
     }
 }
